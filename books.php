@@ -1,7 +1,10 @@
 
-
-[ ] bible
+[*] ************
+[x] bible
 [x] missing manual
 [ ] swift
-[ ] kotlin
+[x] kotlin
 [x] git
+- dinamo
+- fcsb
+- vladimirescu
